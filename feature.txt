@@ -1,0 +1,2 @@
+One of the things I love most about GitHub is Pull Requests. They make code review and collaboration super easy by letting team members discuss changes before merging them into the main project. Plus, they integrate smoothly with CI/CD pipelines, so you can automate testing without a hitch. Being able to comment on specific lines, suggest improvements, and see changes visually really helps keep the code quality high and promotes a team-oriented development process.
+
